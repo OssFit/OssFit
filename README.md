@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oscar Alatrista</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossfit&label=Profile%20views&color=0e75b6&style=flat" alt="ossfit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ossfit" alt="ossfit" /></a> </p>
 
-- 🔭 I’m currently working on improving [Fit U App](https://final-henry-g6.netlify.app/)
+- 🔭 I’m currently working as an Software Developer in Phase One Ventures
 
-- 👨‍💻 All of my projects are available at [pendiente](pendiente)
-
-- 💬 Ask me about **Next js, React js ,Redux, Javascript**
+- 💬 Ask me about **Swift, Angular, NodeJs, **
 
 - 📫 How to reach me **oalatrista@gmail.com**
 
