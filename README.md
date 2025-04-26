@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossfit&label=Profile%20views&color=0e75b6&style=flat" alt="ossfit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ossfit" alt="ossfit" /></a> </p>
-
 - 🔭 I’m currently working as an Software Developer in Phase One Ventures
 
 - 💬 Ask me about **Swift, Angular, NodeJs, **
