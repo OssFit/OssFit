@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Oscar Alatrista</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript | TypeScript | NestJS | NodeJS 🚀</h3>
+<h3 align="center">🤖 Forward Deployed Engineer | AI Solutions Lead 🤖</h3>
+<p align="center"><i>Enterprise AI · Financial AI · AI Agents · AWS</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ossfit&label=Profile%20views&color=0e75b6&style=flat" alt="ossfit" />
@@ -7,75 +8,100 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently working as a **Full Stack Developer** at **Phase One Ventures**  
-- 💬 Ask me about **Node.js, NestJS, TypeScript, and AWS**  
-- 📫 Reach me at **oalatrista@gmail.com**  
-- 📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/oscar-alatrista/)  
-- ⚡ Fun fact: *I’m a Taekwondo black belt and a sports enthusiast.*
+### 🚀 About Me
+
+- 🔭 **Forward Deployed Software Engineer** at **Jelou AI** — shipping AI solutions for leading banks and financial institutions across Latin America
+- 🏦 Deep in **KYC & biometric validation, payment gateways, credit & debt management** and banking-grade environments
+- 💬 Ask me about **AI agents, conversational AI, Node.js, NestJS, TypeScript and AWS**
+- 🧠 6+ years in software engineering, with a Full Stack background I still use every day
+- 📫 Reach me at **oalatrista@gmail.com**
+- 📄 Full experience on [LinkedIn](https://www.linkedin.com/in/oscar-alatrista/)
+- ⚡ Fun fact: *I'm a Taekwondo black belt and a sports enthusiast.*
 
 ---
 
-### 💡 Quick Summary  
+### 💡 Quick Summary
 
-> 🚀 **Building digital experiences that merge clean design with solid engineering.**  
+> 🤖 **I take AI from "interesting demo" to production system — and stay until it works in the real world.**
 
-With over **5 years of experience as a Full Stack Developer**, I’m passionate about creating systems that are scalable, maintainable, and efficient behind the scenes — while ensuring every interaction feels seamless and engaging.  
-I love transforming complex challenges into clear, reliable solutions that power exceptional user experiences.  
-I value **clean architecture, performance, and collaboration**, always striving to build technology that lasts and drives real impact.
+I work at the intersection of engineering, AI and enterprise solutions. I design and implement scalable systems, embed AI agents into real workflows, and sit directly with customers to turn ambiguous requirements into something reliable that ships.
 
----
-
-### 🌍 What I’m Looking For  
-
-I’m looking to join a team that values **clean architecture**, **code quality**, and **meaningful collaboration** — a place where **innovation meets discipline**, where **documentation, testing, and automation** are part of the culture.  
-I’m driven by projects that bring real challenges, from **scaling platforms** to **integrating AI-powered solutions** that improve efficiency and impact.
+Most of what I build lives where it's hardest to get right: **regulated financial workflows**, secure cloud infrastructure, and conversational channels like WhatsApp where a wrong answer has a real cost. I care about **clean architecture, observability and testing** — the boring parts that decide whether a system survives contact with production.
 
 ---
 
-### ⚙️ What I Bring  
+### 🏗️ What I Bring
 
-- 💡 **Innovative mindset:** Always exploring smarter ways to build and optimize systems.  
-- 🤖 **AI-driven automation:** Leveraging AI tools and workflows to enhance productivity.  
-- 🧠 **Technical excellence:** Strong focus on scalability, maintainability, and reliability.  
-- 🤝 **Collaborative energy:** Believer in teamwork, shared ownership, and constructive feedback.  
-- 🚀 **Continuous growth:** Passionate about learning, experimenting, and staying ahead of emerging tech.
+- 🤖 **AI Solutions** — AI-powered agents, conversational AI and automation designed for real business workflows
+- 🛬 **Forward Deployed Engineering** — working shoulder-to-shoulder with customers, from discovery to production support
+- 🧭 **Technical Leadership** — architecture, technical decisions and engineering standards across complex projects
+- 🧱 **Full Stack Engineering** — hands-on with scalable applications, APIs, integrations and cloud systems
+- 🔌 **Enterprise Integrations** — connecting AI to APIs, data platforms, third-party services and enterprise infrastructure
+- ☁️ **AWS & Cloud** — production systems built for scalability, reliability and observability
+- 🌱 **Continuous Growth** — constantly exploring agentic systems and new approaches to engineering
 
 ---
 
-### 🧰 Tech Stack  
+### 📊 Selected Impact
 
-#### 🗣️ Languages  
+- 🧩 Built a **NestJS backend serving 15K+ users** with a strong reliability and performance focus
+- ⭐ Engineered REST APIs powering a **4.78/5-rated app used by 2.8K users**
+- 🔄 Implemented **SSE and WebSockets** for real-time updates, cutting client refresh latency
+- ⚡ Boosted **UI speed by 30%** through clean component architecture
+- ✅ Kept **integration test coverage above 85%** with Jest, stabilizing CI/CD
+- 💳 Integrated APIs and payment gateways that **reduced transaction errors by 15%**
+- ☁️ Deployed and operated production workloads on **AWS EC2, RDS, S3 and Lambda**
+
+---
+
+### 🌍 What I'm Looking For
+
+Teams where engineers own the problem, not just the ticket — where **documentation, testing and automation** are part of the culture rather than an afterthought. I'm drawn to work that combines **engineering, AI and customer-facing problem solving**: scaling platforms, integrating AI where it genuinely moves the needle, and owning the last mile between a business requirement and something running in production.
+
+---
+
+### 🧰 Tech Stack
+
+#### 🗣️ Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white" />
 </p>
 
-#### ⚛️ Frameworks & Libraries  
+#### 🤖 AI & Agents
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A27F?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conversational%20AI-25D366?logo=whatsapp&logoColor=white" />
+</p>
+
+#### ⚛️ Frameworks & Libraries
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
 </p>
 
-#### 🗄️ Databases & ORM  
+#### 🗄️ Databases & ORM
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FE0902?logo=typeorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-2F406A?logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
-#### ☁️ DevOps & Testing  
+#### ☁️ Cloud, DevOps & Testing
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
 </p>
 
-#### 🧩 Tools  
+#### 🧩 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
@@ -85,11 +111,34 @@ I’m driven by projects that bring real challenges, from **scaling platforms** 
 
 ---
 
-### 🤝 Connect with Me  
+### ✍️ Writing
+
+I like digging into how things actually work under the hood:
+
+- 📝 [**Busy Waiting vs. Event Loop:** Understanding Node.js's I/O Efficiency](https://medium.com/@oalatrista/busy-waiting-vs-event-loop-understanding-node-jss-i-o-efficiency-ce9315126bcc)
+- 📝 [**The Reactor Pattern:** Unveiling the Architecture of Asynchronous Node.js](https://medium.com/@oalatrista/the-reactor-pattern-unveiling-the-architecture-of-asynchronous-node-js-f8861bc45b26)
+- 📝 [**Event Loop Phases:** Understanding the Order of Execution in Node.js](https://medium.com/@oalatrista/event-loop-phases-understanding-the-order-of-execution-in-node-js-82b318bce7a2)
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **BASc, Computer Science** — Universidad Peruana de Ciencias Aplicadas (UPC)
+- 📜 Scrum Foundation Professional Certificate (SFPC v2020)
+- 🌐 EF SET English Certificate — **C1 Advanced** *(Spanish: native · English: full professional)*
+- 🧮 JavaScript Algorithms and Data Structures
+- 📱 Learn React Native · 📈 Google Analytics Certification
+
+---
+
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/oscar-alatrista" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@oalatrista" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:oalatrista@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
